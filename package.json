@@ -27,7 +27,7 @@
   "bugs": {
     "url": "https://github.com/forelskets/chhavi.git"
   },
-  "homepage": "https://172.31.12.45:3000/",
+  "homepage": "http://172.31.12.45:3000/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build && gulp licenses",
